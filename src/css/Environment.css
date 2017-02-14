@@ -1,0 +1,6 @@
+.environment {background-color: #e8edf3}
+.environment .banner img{width:100%;vertical-align: middle;}
+.container li{}
+.container li img{width:50%;box-sizing: border-box;padding: 0.13rem;padding-bottom:0;vertical-align: middle;}
+.container li img:nth-child(2n+1){padding-right:0.065rem;}
+.container li img:nth-child(2n){padding-left:0.065rem;}

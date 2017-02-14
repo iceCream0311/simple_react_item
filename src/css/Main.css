@@ -1,0 +1,20 @@
+.Main {font-family: 'SimHei';}
+/***************************** nav *************************************/
+.Main .header{height: 2.75rem;background-color: #115b9a;padding: 0 4%;box-sizing: border-box;}
+.Main .header-logo{height: 2.75rem;padding-top: 0.75rem;box-sizing: border-box;width: 44%;}
+.Main .header-logo img{width: 100%;}
+.Main .header-nav{padding-left:7.7%;width:56%;box-sizing: border-box;padding-top: 4%;padding-bottom: 4%}
+.Main .header-nav li{float: left;width:25.5%;}
+.Main .header-nav li:last-child{float: left;width:23.5%;text-align: right;}
+.Main .header-nav li a{display: inline-block;text-align: center;font-size: 0.8rem;color:#fff;font-family: 'SimHei';line-height: 1.25rem}
+.Main .active{border-bottom: 0.09rem solid #fff;}
+/***************************** nav end  *************************************/
+/***************************** footer *************************************/
+.Main .footer{height: 3.06rem;background-color: #115b9a;display: flex ;padding-top:1rem;padding-bottom:1rem;box-sizing: border-box;}
+.Main .footer li{float:left;flex:1;text-align: center;color:#fff;border-right: 1px solid #4680b1;font-size: 0.8rem;vertical-align: middle;}
+.Main .footer li:last-child{border: none; }
+.Main .footer li a{color:#fff}
+.Main .footer li span{vertical-align: middle;display: inline-block;width:1.3rem;height:1.1rem;background:url(../images/footer.png) no-repeat;background-position: 0 0;background-size: 1.3rem}
+.Main .footer li:nth-child(2) span{background-position: 0 -1.17rem; }
+.Main .footer li:last-child span{background-position: 0 -2.304rem; }
+/***************************** footer end *************************************/

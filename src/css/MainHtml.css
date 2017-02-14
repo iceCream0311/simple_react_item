@@ -1,0 +1,19 @@
+.main-html{padding:0.9rem 1rem 0;background-color: #e8edf3 }
+.main-html img{width: 100%;}
+.main-html .title p{font: normal 0.6rem/0.8rem 'SimHei';text-align: center;color: #666666;}
+.main-html .title p span{color: #ed5c35;}
+.main-html ul{margin-top: 0.6rem}
+.main-html ul li{height:3.812rem;background-color: #d1e1ec;margin-bottom: 0.312rem;box-sizing: border-box;padding: 0.31rem 1.125rem 0.31rem 0.93rem;position: relative; }
+.main-html ul li:last-child{margin-bottom:0 }
+.main-html ul li:after{position: absolute;content:""; width: 0;height: 0;    border-top: 0.4rem solid transparent;border-left: 0.4rem solid #d1e1ec;border-bottom: 0.4rem solid transparent;  right: -0.4rem;top: 50%;margin-top: -0.4rem}
+.main-html li>fl { box-sizing: border-box;}
+.main-html li>fr {box-sizing: border-box; }
+.main-html li .img .fl:nth-child(1){width:3.1rem; }
+.main-html li .img .fl>p:nth-child(1){color: rgb(17, 17, 17);font-size: 0.7rem;line-height: 0.8rem;padding-top: 0.825rem;margin-left: 0.93rem}
+.main-html li .img .fl p:nth-child(2){color: rgb(160, 160, 160);font-size: 0.6rem;line-height: 1rem;margin-left: 0.93rem}
+.main-html li .img img{width:100%;}
+.main-html li .srco {box-sizing: border-box;line-height: 1.875rem;font-size: 0.55rem;color:rgb(160, 160, 160);    padding-top: 0.825rem;}
+.main-html .srco  img{width:1.5rem;height: 1.875rem;vertical-align: middle;}
+.main-html .srco  span{font-size: 1.56rem;color:#ed5c35;vertical-align: middle;}
+.main-html>p {text-align: center;}
+.main-html p a {font-size: 0.7rem;color:#068fff;line-height: 2.6rem}

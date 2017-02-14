@@ -1,0 +1,10 @@
+.works{background-color: #ffffff}
+.works .banner{padding-top: 1.5rem}
+.works .banner img{width:100%}
+.works .container{padding: 0 0.6rem}
+.works .container li>div{position:relative;float:left;margin: 0.7rem 0.3rem;border: 1px solid #82d2ff;color:#464646;font-size: 0.6rem;line-height:0.8rem;width: 47.6%;padding: 1rem 0.1rem 0;box-sizing: border-box;}
+.works .container li>div:nth-child(2n){margin-right: 0}
+.works .container li>div:nth-child(2n+1){margin-left: 0}
+.works .container p{text-align: center;}
+.works .container p a{color:#068fff;font-size: 0.6rem;line-height: 1.5rem}
+.works .container li>div h3{font-size:0.8rem;line-height:1.1rem;position: absolute;top:-0.6rem;left:50%;width:5rem;margin-left:-2.5rem;background:url(../images/bx_bg.png) no-repeat;text-align: center;background-size: contain;color: #fff}

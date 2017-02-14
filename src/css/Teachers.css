@@ -1,0 +1,16 @@
+.teachers{background-color: #e8edf3}
+.teachers .banner{text-align: center;padding-top: 0.5rem;padding-bottom: 0.5rem}
+.teachers .banner img{width: 67.2%;}
+.teachers .container {padding: 0 0.93rem}
+.teachers .container li{padding: 0.375rem 0;border-bottom: 1px solid #d5dade}
+.teachers .container li>div{width: 90%}
+.teachers .container li .img{width:17%;margin-right: 1%}
+.teachers .container li img{width:100%}
+.teachers .container li .containt{width:72%;line-height: 0.9rem;padding-top: 0.3rem}
+.teachers .container li p{white-space: nowrap;overflow: hidden;text-overflow:ellipsis}
+.teachers .container .containt>p:nth-child(1){font-size: 0.8rem;color:#464646}
+.teachers .container .containt>p:nth-child(2){font-size: 0.6rem;color:#a0a0a0}
+.teachers .container .arrow{width:5%;padding-top: 0.3rem}
+.teachers .container .arrow img{width:100%}
+.teachers>p {text-align: center;}
+.teachers>p a {font-size: 0.7rem;color:#068fff;line-height: 2.6rem}

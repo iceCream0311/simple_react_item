@@ -1,0 +1,4 @@
+.App{margin: 0;padding: 0;height: auto;position: relative;}
+.App img{width: 100%;max-width: 23.43rem;vertical-align: middle;}
+.App p{text-align: center}
+.App button{width: 13.2rem;background:url(../images/index_btn.png) no-repeat;background-size: cover;height: 2.34rem;position: absolute;bottom:14%;left:50%;margin-left: -6.7rem; color: #fff;font-size: 1.125rem}
